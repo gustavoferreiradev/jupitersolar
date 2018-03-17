@@ -1,0 +1,35 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://jupitersolar.com.br/energia-solar-fotovoltaica/paineis-solares-fotovoltaicos-autoconsumo/"
+  },
+  "headline": "Já pensou em gerar sua própria energia?",
+  "image": {
+    "@type": "ImageObject",
+    "url": "http://jupitersolar.com.br/wp-content/uploads/2017/08/autoconsumo.jpg",
+    "height": 675,
+    "width": 1080
+  },
+  "datePublished": "2017-08-22T16:26:00-03:00",
+  "dateModified": "2017-08-03T16:30:00-03:00",
+  "author": {
+    "@type": "Person",
+    "name": "Aliny Carneiro"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Júpiter Solar",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://jupitersolar.com.br/wp-content/uploads/2017/07/logo-jupiter-solar-rc.png",
+      "width": 600,
+      "height": 60
+    },
+    "description": "Você sabia que é possível gerar energia para autoconsumo através de painéis solares fotovoltaicos? Confira como nesse artigo!"
+  }
+
+
+}

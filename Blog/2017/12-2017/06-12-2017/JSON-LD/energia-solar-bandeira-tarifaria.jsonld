@@ -1,0 +1,36 @@
+<script type='application/ld+json'>
+{
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "http://jupitersolar.com.br/energia-solar/energia-solar-bandeira-tarifaria/"
+    },
+    "headline": "Dezembro chegou e com ele a conta de luz continua subindo",
+    "image": {
+        "@type": "ImageObject",
+        "url": "http://jupitersolar.com.br/wp-content/uploads/2017/12/bandeira-tarifaria.jpg",
+        "height": 675,
+        "width": 1080
+    },
+    "datePublished": "2017-12-06T09:14:00-02:00",
+    "dateModified": "2017-12-06T09:45:00-02:00",
+    "author": {
+        "@type": "Person",
+        "@id": "http://www.facebook.com/aliny.carneiro",
+        "name": "Aliny Carneiro"
+    },
+    "publisher": {
+        "@id":"http://jupitersolar.com.br",
+        "@type": "Organization",
+        "name": "Júpiter Solar",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "http://jupitersolar.com.br/wp-content/uploads/2017/07/logo-jupiter-solar-rc.png",
+            "width": 600,
+            "height": 60
+        },
+        "description": "Conheça mais sobre o sistema de bandeiras tarifárias e como a energia solar pode contribuir para a sua economia de energia."
+    }
+}
+</script>

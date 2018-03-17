@@ -1,0 +1,35 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://jupitersolar.com.br/energia-solar/energia-solar-app/"
+  },
+  "headline": "Já pensou em gerar sua própria energia?",
+  "image": {
+    "@type": "ImageObject",
+    "url": "http://jupitersolar.com.br/wp-content/uploads/2017/09/aplicativo-energia-solar.jpg",
+    "height": 675,
+    "width": 1080
+  },
+  "datePublished": "2017-09-22T16:26:00-15:35",
+  "dateModified": "2017-09-22T16:30:00-15:40",
+  "author": {
+    "@type": "Person",
+    "name": "Aliny Carneiro"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Júpiter Solar",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://jupitersolar.com.br/wp-content/uploads/2017/07/logo-jupiter-solar-rc.png",
+      "width": 600,
+      "height": 60
+    },
+    "description": "Já pensou? Um aplicativo que informa quando você vai gastar em energia solar? Conheça mais sobre o app SOL que promete calcular seu consumo estimado."
+  }
+
+
+}
