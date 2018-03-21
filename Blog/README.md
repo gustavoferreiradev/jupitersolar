@@ -1,6 +1,6 @@
 # Blog
 
-Blog desenvolvido como parte da estratégia de divulgação da empresa. Todos os artigos escritos pela publicitária [Aliny Carneiro](https://www.facebook.com/aliny.carneiro).
+Blog desenvolvido como parte da estratégia de divulgação da empresa. Todos os artigos escritos pela publicitária [Aliny Carneiro](https://www.facebook.com/aliny.carneiro). A edição de imagens ficou por conta de ambos, sendo as artes vetorizadas também por [Aliny Carneiro](https://www.facebook.com/aliny.carneiro).
 
 ## Estrutura de diretórios:
 
